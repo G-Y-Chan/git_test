@@ -3,3 +3,5 @@ Hello world!
 ##### Section 1 #####
 *Example sentence added in feature1 branch
 *Example sentence added in main branch
+
+##### Section 2 #####
