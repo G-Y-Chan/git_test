@@ -1,3 +1,4 @@
 Hello world!
 
 ##### Section 1 #####
+*Example sentence added in feature1 branch
